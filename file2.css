@@ -145,6 +145,8 @@ table {
     text-align: center;
     margin-top: 20px;
     border-collapse: collapse;
+    overflow-x: auto;
+    
 }
 
 table th {
